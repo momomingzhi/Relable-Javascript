@@ -1,0 +1,16 @@
+{
+  "arrowParens": "always",
+  "endOfLine": "auto",
+  "overrides": [
+    {
+      "files": "*.json",
+      "options": {
+        "printWidth": 200
+      }
+    }
+  ],
+  "parser": "typescript",
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "all"
+}
